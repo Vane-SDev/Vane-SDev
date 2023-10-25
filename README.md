@@ -8,7 +8,7 @@ I'm Vanesa, a passionate web and software developer with experience in WordPress
 
 Connect with me and let's explore new opportunities together!
 
-[LinkedIn] ([https://www.linkedin.com/in/your_profile](https://www.linkedin.com/in/soria-vanesa-webdesign/))
+[LinkedIn] ([https://www.linkedin.com/in/your_profile] (https://www.linkedin.com/in/soria-vanesa-webdesign/))
 [Your Website](https://www.yourwebsite.com)
 
 <!---
