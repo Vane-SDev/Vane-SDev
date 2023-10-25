@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm @Vane-SDev, a passionate web and software developer with experience in WordPress and web technologies. Currently, I'm studying Software Development and Web Development with React at UTN. I've completed courses on Platzi and Udemy and graduated from the Oracle One program "JAVA AND SPRING BOOT G4 - ONE." I've also advanced my JavaScript skills.
+I'm Vanesa, a passionate web and software developer with experience in WordPress and web technologies. Currently, I'm studying Software Development and Web Development with React at UTN. I've completed courses on Platzi and Udemy and graduated from the Oracle One program "JAVA AND SPRING BOOT G4 - ONE." I've also advanced my JavaScript skills.
 
 💼 I'm seeking my first job in information technology.
 
