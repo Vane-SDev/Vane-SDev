@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm Vanesa, a passionate web and software developer with experience in WordPress and web technologies. Currently, I'm studying Software Development and Web Development with React at UTN. I've completed courses on Platzi and Udemy and graduated from the Oracle One program "JAVA AND SPRING BOOT G4 - ONE." I've also advanced my JavaScript skills.
+I'm Vanesa, a passionate web and software developer with experience in WordPress and web technologies. Currently, I'm studying Software Development and Web Development with React at UTN. I've completed courses on Platzi and Udemy and graduated from the Oracle One program "Backend developer Java with Spring - ONE." I've also advanced my JavaScript skills.
 
 💼 I'm seeking my first job in information technology.
 
@@ -8,8 +8,9 @@ I'm Vanesa, a passionate web and software developer with experience in WordPress
 
 Connect with me and let's explore new opportunities together!
 
-[LinkedIn] [ttps://www.linkedin.com/in/soria-vanesa-webdesign/]
-<!--[Your Website](https://www.yourwebsite.com)
+[LinkedIn](https://www.linkedin.com/in/soria-vanesa-webdesign/)
+
+[Portafolio](https://vs-webdev.netlify.app)
 
 <!---
 VaneSDev/VaneSDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
