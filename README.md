@@ -10,7 +10,7 @@ Connect with me and let's explore new opportunities together!
 
 [LinkedIn](https://www.linkedin.com/in/soria-vanesa-webdesign/)
 
-[Portafolio](https://vs-webdev.netlify.app)
+
 
 <!---
 VaneSDev/VaneSDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
