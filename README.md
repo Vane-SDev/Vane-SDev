@@ -4,7 +4,7 @@ I'm Vanesa, a passionate web and software developer with experience in WordPress
 
 💼 I'm looking for my first job as a web developer.
 
-🚀 I'd love to collaborate on projects that use C#, JavaScript, React, Python, or Java.
+🚀 I'd like to collaborate on projects that use C#, JavaScript, React, Python, or Java.
 
 Connect with me and let's explore new opportunities together!
 
