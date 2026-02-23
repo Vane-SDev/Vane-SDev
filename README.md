@@ -17,9 +17,9 @@ Mi enfoque combina la lógica y la estructura con la tecnología, para crear sol
 ### 🛠️ Mi Stack Tecnológico
 
 <div align="center"> 
+ 
   
-  
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,wordpress,woocommerce,csharp,python,docker,git,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,wordpress,WooCommerce,C#,python,docker,git,figma&theme=dark" />
     
   <br/>
   
