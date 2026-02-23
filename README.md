@@ -24,7 +24,7 @@ Mi enfoque combina la lógica y la estructura con la tecnología, para crear sol
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-
+![Snake animation](https://raw.githubusercontent.com/Vane-SDev/Vane-SDev/output/github-contribution-grid-snake.svg)
 ---
 
 ### 📫 Hablemos
