@@ -16,21 +16,18 @@ Mi enfoque combina la lógica y la estructura con la tecnología, para crear sol
 
 ### 🛠️ Mi Stack Tecnológico
 
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=for-the-badge&logo=WooCommerce&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-![Snake animation](https://raw.githubusercontent.com/Vane-SDev/Vane-SDev/output/github-contribution-grid-snake.svg)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Vane-SDev/Vane-SDev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<div align="center"> 
   
+  
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,wordpress,woocommerce,csharp,python,docker,git,figma&theme=dark" />
+    
   <br/>
   
-  <img src="https://skillicons.dev/icons?i=react,js,wordpress,dotnet,figma,css,html&theme=dark" />
+  <img src="https://raw.githubusercontent.com/Vane-SDev/Vane-SDev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+ 
+  
+ 
 </div>
 ---
 
