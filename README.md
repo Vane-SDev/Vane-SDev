@@ -17,19 +17,15 @@ Mi enfoque combina la lógica y la estructura con la tecnología, para crear sol
 ### 🛠️ Mi Stack Tecnológico
 
 <div align="center"> 
- 
   
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,wordpress,mysql,cs,python,docker,git,figma&theme=dark" />
     
   <br/>
   
   <img src="https://raw.githubusercontent.com/Vane-SDev/Vane-SDev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  
- 
-  
  
 </div>
----
+
 
 ### 📫 Hablemos
 
