@@ -19,7 +19,7 @@ Mi enfoque combina la lógica y la estructura con la tecnología, para crear sol
 <div align="center"> 
  
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,wordpress,WooCommerce,C#,python,docker,git,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,wordpress,mysql,Cs,python,docker,git,figma&theme=dark" />
     
   <br/>
   
