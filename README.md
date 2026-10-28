@@ -1,44 +1,37 @@
 # ¡Hola! Soy Vanesa 👋
 
-Soy una **desarrolladora de software y estratega digital** apasionada por construir herramientas que resuelven problemas de negocio reales. 
+Desarrolladora **fullstack** en San Juan, Argentina. Trabajo con React, Next.js, Node.js y WordPress, y desde [VS Web Dev](https://vsweb.dev) hago sitios, tiendas online y aplicaciones a medida para pymes, emprendedores y agencias.
 
-Mi enfoque combina la lógica y la estructura con la tecnología, para crear soluciones web que no solo son elegantes y funcionales, sino que están diseñadas con un propósito claro: **ayudar a tu negocio a crecer.**
-
----
-
-### 💡 Mi Filosofía de Trabajo
-
-- 🔭 **Más que código, creo soluciones:** Me especializo en entender los desafíos operativos y de mercado de pymes y profesionales para traducirlos en tecnología a medida.
-- 🌱 **Socia a largo plazo:** Mi objetivo es construir relaciones duraderas, ofreciendo no solo el desarrollo inicial, sino también el soporte y la estrategia para que tu inversión digital evolucione con el tiempo.
-- 💬 **Comunicación clara:** Creo en la tecnología explicada de forma simple, sin jerga innecesaria.
+Hace más de 13 años doy clases online de matemática y programación, así que muchos de mis proyectos nacen ahí: herramientas que uso con mis propios alumnos.
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### 🚀 Proyectos destacados
 
-<div align="center"> 
-  
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,wordpress,mysql,cs,python,docker,git,figma&theme=dark" />
-    
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [**MathBoard**](https://github.com/Vane-SDev/MathBoard) | Pizarra colaborativa en tiempo real para clases de matemática, con laboratorios de geometría, cálculo y graficadores 3D. [Demo](https://mathboard.infinitamentemath.workers.dev/?sala=demo) | Next.js 16 · TypeScript · tldraw · Cloudflare Workers |
+| [**Infinitamente Matemático**](https://github.com/Vane-SDev/Infinitamente-Website) | Sitio de mi marca de clases online. | Next.js · React |
+| [**vsweb.dev**](https://vsweb.dev) | Sitio de VS Web Dev, con asistente de IA propio. | Astro · Python · FastAPI |
+
+---
+
+### 🛠️ Stack
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,nodejs,express,php,python,mysql,sqlite,wordpress,cloudflare,git,figma&theme=dark" />
+
   <br/>
-  
-  <img src="https://raw.githubusercontent.com/Vane-SDev/Vane-SDev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
- 
+
+  <img src="https://raw.githubusercontent.com/Vane-SDev/Vane-SDev/output/github-contribution-grid-snake-dark.svg" alt="Animación de contribuciones" />
+
 </div>
 
+---
 
-### 📫 Hablemos
+### 📫 Contacto
 
-¿Tenés una idea o un desafío de negocio? Me encantaría escucharlo.
-
-- **Email:** [vane@vswebdesign.online](mailto:vane@vswebdesign.online)
-
-[LinkedIn](https://www.linkedin.com/in/vanesa-soria-webdev/)
-
-
-
-<!---
-VaneSDev/VaneSDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+- **Portfolio:** [vsweb.dev](https://vsweb.dev)
+- **LinkedIn:** [vanesa-soria-webdev](https://www.linkedin.com/in/vanesa-soria-webdev/)
+- **Email:** [vs.websdev@gmail.com](mailto:vs.websdev@gmail.com)
