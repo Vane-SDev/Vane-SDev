@@ -16,6 +16,23 @@ Hace más de 13 años doy clases online de matemática y programación, así que
 
 ---
 
+### 🎨 Diseño UI
+
+Diseño en Figma las interfaces de mis proyectos antes de programarlas, con componentes, variantes, auto-layout y variables.
+
+**FitMove · App de gestión para un club deportivo** — proyecto grupal de la tecnicatura, a cargo del diseño de la interfaz. [Ver en Figma](https://www.figma.com/design/GscWpGdKJxc971sj3LGUzW/Dispositivos-M%C3%B3viles)
+
+![Pantallas de FitMove](img/fitmove-pantallas.png)
+
+<details>
+<summary>Ver la librería de componentes</summary>
+
+![Componentes de FitMove](img/fitmove-componentes.jpg)
+
+</details>
+
+---
+
 ### 🛠️ Stack
 
 <div align="center">
